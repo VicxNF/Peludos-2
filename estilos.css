@@ -1,0 +1,22 @@
+body
+{
+    background-color: lightslategray;
+    margin: 0px;
+    padding: 0px;
+}
+
+#menu
+{
+    background-color: grey;
+    width: 20%;
+    float: left;
+    height: 100vh;
+}
+
+#cuerpo
+{
+    background-color: blueviolet;
+    width: 80%;
+    float: right;
+    height: 100vh;
+}
